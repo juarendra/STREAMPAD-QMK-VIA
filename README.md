@@ -1,5 +1,4 @@
-# STREAMPAD-QMK-VIA
-# UNDERDESK 
+# STREAMPAD-QMK-VIAK 
 
 ## Spesification
 - STMf103 type C as Microcontroller
