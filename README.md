@@ -8,6 +8,9 @@
 - 1x Encoder Knob
 - 3D Case 
 
+## VIA
+- You can Download VIA on this [link](https://github.com/the-via/releases/releases)
+- or you can go to this [web](https://usevia.app/)
 
 ## Auto Detect VIA
 this Device can automatically detect on VIA, just need PC with Intercet Connection
