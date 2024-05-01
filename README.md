@@ -43,6 +43,11 @@ Here's some examples:
 - mouse : https://github.com/qmk/qmk_firmware/blob/master/docs/feature_mouse_keys.md
 - keyboard : https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md
 
+## How To use MACRO
+you can read on [this file](https://github.com/juarendra/STREAMPAD-QMK-VIA/blob/main/DOC/MACRO%20VIA%20USAGE.pdf)
+or you can read on this [web](https://www.keychron.com/blogs/archived/how-to-use-via-to-program-your-keyboard)
+or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
+
 ## Tutorial VIA Usage
 - https://docs.keeb.io/via
 
