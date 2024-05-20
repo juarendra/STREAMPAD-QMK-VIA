@@ -79,4 +79,4 @@ Bootloader not found. Make sure the board is in bootloader mode. See https://doc
 - Reconnect USB macropad, PC will be detected macropad
 - You can see this VIDEO for helping
 
-https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/daf05cb3-5ffb-4896-910a-576f78afdfc5
+https://github.com/juarendra/STREAMPAD-QMK-VIA/blob/main/DOC/tutorial_flash.mp4
