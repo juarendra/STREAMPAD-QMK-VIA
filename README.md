@@ -77,6 +77,5 @@ Bootloader not found. Make sure the board is in bootloader mode. See https://doc
 ```
 - Connect USB macropad, then macropad will be to flashed.
 - Reconnect USB macropad, PC will be detected macropad
-- You can see this VIDEO for helping
+- You can see this [VIDEO](https://github.com/juarendra/STREAMPAD-QMK-VIA/blob/main/DOC/tutorial_flash.mp4) for helping
 
-https://github.com/juarendra/STREAMPAD-QMK-VIA/blob/main/DOC/tutorial_flash.mp4
