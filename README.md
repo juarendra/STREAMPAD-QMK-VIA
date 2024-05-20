@@ -79,3 +79,7 @@ Bootloader not found. Make sure the board is in bootloader mode. See https://doc
 - Reconnect USB macropad, PC will be detected macropad
 - You can see this [VIDEO](https://github.com/juarendra/STREAMPAD-QMK-VIA/blob/main/DOC/tutorial_flash.mp4) for helping
 
+## Example Firmware With 2 Encoder
+- you can try new firmware with 2 encoder
+- you must add encoder pin to pin A6 and A5 STM32103 bluephill
+- you flash with this [folder firmware(streampad_twoencoder)](https://github.com/juarendra/STREAMPAD-QMK-VIA/tree/main/Firmware)
