@@ -65,4 +65,18 @@ https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/daf05cb3-5ffb-489
 - Then enter this command, to enter qmk folder
 ```sh
 cd qmk_firmware/
-```c
+```
+- Then enter this comman, to compile and enter mode flash qmk
+```sh
+qmk flash -kb streampad_ -km via
+```
+- After compile finish you can see instructions to connect macropad like this
+```sh
+Bootloader not found. Make sure the board is in bootloader mode. See https://docs.qmk.fm/#/newbs_flashing
+ Trying again every 0.5s (Ctrl+C to cancel).............................
+```
+- Connect USB macropad, then macropad will be to flashed.
+- Reconnect USB macropad, PC will be detected macropad
+- You can see this VIDEO for helping
+
+https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/daf05cb3-5ffb-4896-910a-576f78afdfc5
