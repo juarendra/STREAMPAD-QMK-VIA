@@ -54,12 +54,15 @@ or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
 ## Tutorial VIA Usage
 - https://docs.keeb.io/via
 
-## Download VIA
-Link Download VIA(Pilih sesuai OS) : https://github.com/the-via/releases/releases
-VIA WEB VERSION : https://usevia.app/
-
 ## Preview VIA
 
 https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/daf05cb3-5ffb-4896-910a-576f78afdfc5
 
-
+## HOW To FLASH MACROPAD 
+- Download QMK MYSYS, Install and setup QMK MYSYS, you can see this [tutorial](https://msys.qmk.fm/guide.html#next-steps)
+- After all setup in QMK MYSYS, copy this [folder firmware(streampad_)](https://github.com/juarendra/STREAMPAD-QMK-VIA/tree/main/Firmware) to folder qmk_firmware/keyboards/
+- Open QMK MYSYS
+- Then enter this command, to enter qmk folder
+```sh
+cd qmk_firmware/
+```c
